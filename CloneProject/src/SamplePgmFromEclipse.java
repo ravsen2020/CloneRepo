@@ -6,7 +6,7 @@ public class SamplePgmFromEclipse {
 		System.out.println("new line added");
 		System.out.println("thid commit");
 		System.out.println("fifth");
-
+		System.out.println("code changed from github");
 	}
 
 }
